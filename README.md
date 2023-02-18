@@ -6,15 +6,17 @@
 
 - 📫 How to reach me armin.irannejad@gmail.com
 
-- :rugby_football: My hobbies include rugby, lifting, football, FPL, football statistics, odds betting and music :headphones:
+- 🏉 My hobbies include rugby, FPL, football statistics, odds betting, music, languages and quizzes 🌍
 
-- ⚡ Fun fact **I've won the Swedish Championship in Rugby :1st_place_medal:**
+- ⚡ Fun fact **I've won the Swedish Championship in Rugby 🥇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/armin-irannejad-697782201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armin-irannejad-697782201/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/armin-irannejad-697782201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armin-irannejad-697782201/" height="30" width="40" /></a> 
 </p>
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armin.irannejad@gmail.com)
+
+
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminIrannejad)
 
 <h3 align="left">Languages and Tools:</h3>
