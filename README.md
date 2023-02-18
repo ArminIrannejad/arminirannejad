@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
+- 🔭 I’m currently working on [Exjobb](https://github.com/ArminIrannejad/Exjobb)
+
+- 🌱 I’m currently learning **more about Computational Chemistry and Data Analysis**
+
+- :rugby_football: My hobbies include [rugby, lifting, football, FPL, football statistics, odds betting and music :headphones:](rugby, lifting, football, FPL, football statistics, odds betting and music :headphones:)
+
 - 📫 How to reach me armin.irannejad@gmail.com
 
-- ⚡ Fun fact **I've won the Swedish Championship in Rugby**
+- ⚡ Fun fact **I've won the Swedish Championship in Rugby :1st_place_medal:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arminirannejad&show_icons=true&theme=dark&locale=en" alt="arminirannejad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arminirannejad&" alt="arminirannejad" /></p>
+
