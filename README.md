@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
-- 🔭 I’m currently working on [Exjobb](https://github.com/ArminIrannejad/Exjobb)
+
+- 🔭 I’m currently working on [Exjobb] (https://github.com/ArminIrannejad/Exjobb)
 
 - 🌱 I’m currently learning **more about Computational Chemistry and Data Analysis**
 
