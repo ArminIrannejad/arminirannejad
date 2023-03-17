@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
 
-- 🔭 I’m currently working on [Exjobb] (https://github.com/ArminIrannejad/Exjobb)
+- 🔭 I’m currently working on **[Exjobb] (https://github.com/ArminIrannejad/Exjobb)**
 
 - 🌱 I’m currently learning **more about Computational Chemistry and Data Analysis**
 
-- 📫 How to reach me armin.irannejad@gmail.com
+- 📫 How to reach me **armin.irannejad@gmail.com**
 
-- 🏉 My hobbies include rugby, FPL, football statistics, odds betting, music, languages and quizzes 🌍
+- 🏉 My hobbies include **rugby, FPL, football statistics, odds betting, music, languages and trivia 🌍**
 
 - ⚡ Fun fact **I've won the Swedish Championship in Rugby 🥇**
 
