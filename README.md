@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **armin.irannejad@gmail.com**
 
-- 🏉 My hobbies include **rugby, FPL, football statistics, odds betting, music, languages and trivia 🌍**
+- 🏉 My hobbies include **rugby, football statistics, odds betting, music, languages and trivia 🌍**
 
 - ⚡ Fun fact **I've won the Swedish Championship in Rugby 🥇**
 
